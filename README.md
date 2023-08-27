@@ -38,5 +38,5 @@ Arbre de décision unique = certaines features ne sont pas utilisées. il serait
 
 - ### Idée principale des Randoms Forests:
   - Créer des sous-ensembles de features sélectionnées de manière aléatoire pour chaque division poteltielle
-
-
+#### Choisir un nombre N de features à sélectionner aléatoirement pour un sous-ensemble. 
+#### Dans notre exemple N  = 3, 
