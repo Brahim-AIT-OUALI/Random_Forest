@@ -96,6 +96,8 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/b629fa1f-00c1-4701-b3fa-6409493f948a)
 
+##C# - Nombre de features dans les sous-ensembles : points de départ pour votre recherche par grille ou research.
+
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/b1266cd3-d2b0-44ae-9111-298d7d743f21)
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/44802d52-e844-4f8c-bc1a-1ed77b112b01)
