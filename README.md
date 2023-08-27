@@ -117,6 +117,8 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/fa4f7cdb-97ba-418d-aa2a-b1eebc8442ab)
 
 #### Alors pourquoi faire du bootstrap? Pourquoi ne pas simplement utiliser l'ensemble des données?
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/61cd0a24-2351-4644-9181-2722e85e810e)
+
 
 
 
