@@ -55,6 +55,7 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/0c056817-9ebf-49b9-9d57-9da0119f8c8c)
 
 #### Même chose pour l'autre noeud :
+
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/3b1594fb-29a2-4d34-b918-09d1a566fa27)
 
 
