@@ -63,3 +63,37 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/cf98e75b-1b4e-4984-9aa5-b56f02beb1a5)
 
+#### Grâce à cette idée très puissante de choisir des sous ensembles de features sélectionnés de manière aléatoire, je vais m'assurer de ne pas surentraîner ces arbres. En fait, la possibilité de choisir ces sous ensembles aléatoires de features me permet d'explorer de nombreux aspects différents de l'ensemble de mon espace de features. Il est fort probable que je pourrais utiliser toutes les features qui contiennent un signal utile, je sais qu'à terme, en fonction du nombre d'arbres que je construirais, j'examinerai cette feature car si elles ont un signal utile, même si elles ne sont pas toujours utilisées pour le nœud racine, et si elle est importante, je choisirai de m'en servir. Ce qui me permet de créer cette forêt ou cet ensemble de plusieurs types d'arbres de décision qui se développent de différentes manières, car je sais qu'ils examinent différents sous ensembles de données chaque fois qu'ils doivent décider d'une division.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Et j atténue également le problème de la non-utilisation des fichiers utiles.
+
+Je sais que si je construis suffisamment d'arbre, toute fissure utile finira par être utilisée parce
+
+qu'elle aura été sélectionnée dans un sous ensemble aléatoire pour une certaine division.
+
+Cela signifie que je pourrais avoir, par exemple, ces arbres sélectionnés au hasard qui utilisent
+
+tous différents types de features sur l'ensemble de mes cinq features du Dataset.
+
+La question qui se pose alors est de savoir comment obtenir une réponse ou une prédiction à partir de
+
+nombreux modèles.
