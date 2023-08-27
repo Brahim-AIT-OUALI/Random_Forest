@@ -58,5 +58,8 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/3b1594fb-29a2-4d34-b918-09d1a566fa27)
 
+
 - Choix d'autre sous-ensemble aléatoire de features et je choisis la meilleure feature de ce sous-ensemble pour continuer les tâches de division jusqu'à ce que je construit mon arbre.
+
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/cf98e75b-1b4e-4984-9aa5-b56f02beb1a5)
 
