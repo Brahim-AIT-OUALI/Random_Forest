@@ -40,3 +40,6 @@ Arbre de décision unique = certaines features ne sont pas utilisées. il serait
   - Créer des sous-ensembles de features sélectionnées de manière aléatoire pour chaque division poteltielle
 #### Choisir un nombre N de features à sélectionner aléatoirement pour un sous-ensemble. 
 #### Dans notre exemple N  = 3, à partir de ces 3 features, je commence par construire un arbre de décision sur ma première division (=noeud racine)
+#### On voit ainsi comment on évite d'avoir la même feature au noeud racine en fonction des critères d'information.
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/dd7c7ec3-fb14-4114-8f5b-ac313353426e)
+
