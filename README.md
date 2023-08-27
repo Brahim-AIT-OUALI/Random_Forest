@@ -25,3 +25,10 @@
    - Feature unique pour le noeud racine
    - Le critère de division peut conduire à la non-utilisation de certaines features.
    - Risque d'overfitting aux données.
+
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/542f9f8e-d48e-4723-be04-694c0c30da79)
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/9b45da29-34b2-4fe3-b384-ccb070e496c2)
+
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/322523ac-2cc8-4560-bf4f-0bbb7322578f)
+
+
