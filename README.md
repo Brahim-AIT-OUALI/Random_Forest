@@ -44,14 +44,18 @@ Arbre de décision unique = certaines features ne sont pas utilisées. il serait
 #### Sur la base de mes critères d'information tels que le gain d'information ou l'impureté de Gini, la meilleure feature sur laquelle on divise dans un premier temps est la feature jaune.
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/dd7c7ec3-fb14-4114-8f5b-ac313353426e)
 
-#### On se trouve maintenant sur un autre ** noeud **:
+#### On se trouve maintenant sur un autre **noeud**:
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/a954d899-9b03-4c8a-8610-8f7359245728)
 
 je dois décider ou non de diviser à nouveau. Si je décide sur la base des critères de mon arbre de décision tels que le gain d'information ou l'impureté de Gini que j'ai besoin d'effectuer une division, je choisis un autre sous-ensemble de features pour la division. 
 #### Puis j'utilise mes critères d'information pour décider lesquelles de ces caractéristiques de ce sous-ensemble aléatoire je dois choisir pour poursuivre la division
 #### Dans ce cas, je peux choisir la feature orange et obtenir une diminution de l'impureté de Gini suffisante pour continuer et diviser cela en noeuds feuilles et en noeuds terminaux.
-#### 
+
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/0c056817-9ebf-49b9-9d57-9da0119f8c8c)
+
+#### Même chose pour l'autre noeud :
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/3b1594fb-29a2-4d34-b918-09d1a566fa27)
+
 
 
