@@ -43,5 +43,6 @@ Arbre de décision unique = certaines features ne sont pas utilisées. il serait
 #### On voit ainsi comment on évite d'avoir la même feature au noeud racine en fonction des critères d'information.
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/dd7c7ec3-fb14-4114-8f5b-ac313353426e)
 
+#### On se trouve maintenant sur un autre noeud : je dois décider ou non de diviser à nouveau. Si je décide sur la base des critères de mon arbre de décision tels que le gain d'information ou l'impureté de Gini que j'ai besoin d'effectuer une division, je choisis un autre sous-ensemble de features pour la division.
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/0c056817-9ebf-49b9-9d57-9da0119f8c8c)
 
