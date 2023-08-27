@@ -20,4 +20,8 @@
  - Diminution de l'impureté minimale de Gini.
  - Définition des limites de profondeur
  - Limitation du nombre de feuilles terminaux
-#### Mais pour un même nombre de règle, il n'y a qu'un seul arbre unique.
+#### Mais pour chaque ensemble de règles, il n'y a qu'un seul arbre de décision possible.
+- Cependant, avec tous ces ajustements d'hyperparamètres, l'arbre de décision unique reste limité:
+   - Feature unique pour le noeud racine
+   - Le critère de division peut conduire à la non-utilisation de certaines features.
+   - Risque d'overfitting aux données.
