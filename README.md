@@ -85,6 +85,8 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 # Pour les 2 premiers hyperparamètres :
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/bbff0ed7-094b-43dc-9edf-d653ffd644d9)
 
+# Pour les 2 autres : 
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/dde02cd3-66e3-451d-805e-c0963994a86d)
 
 
 
