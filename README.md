@@ -80,6 +80,7 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 
 ### L'ajout d'une contraine de sous-espace de features aléatoires pouvait permettre aux arbres de croître beaucoup plus profondément sans provoquer d'overfitting.
 
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/b3da1d6a-baf7-4ff5-b538-4cbaacbbe2c9)
 
 
 
