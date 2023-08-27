@@ -108,6 +108,9 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/36b3877c-5c4a-415a-8d2d-45fae1a9a643)
 
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/b966067e-46e8-46b0-a387-84a5c5cc561f)
+
+
 
 
 
