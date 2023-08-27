@@ -14,3 +14,10 @@
 - La feature de la racine a une grande influence sur l'arbre.
   
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/623163d8-b670-4d82-a7c0-556463f4fb8d)
+
+#### Nous pourrions essayer d'adapter les règles, par exemple :
+ - Critère de division (gain d'information au lieu de l'impureté de Gini)
+ - Diminution de l'impureté minimale de Gini.
+ - Définition des limites de profondeur
+ - Limitation du nombre de feuilles terminaux
+#### Mais pour un même nombre de règle, il n'y a qu'un seul arbre unique.
