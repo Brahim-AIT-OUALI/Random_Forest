@@ -27,6 +27,7 @@
    - Risque d'overfitting aux données.
 ### Principe des Randoms Forets: 
 Arbre de décision unique = certaines features ne sont pas utilisées. il serait inétressant d'avoir une sorte de signal ou d'information dans ces données afin de pouvoir les utiliser.
+
 #### idée = étendre un arbre de décision unique à un ensemble de plusieurs arbres de décision constituant justement Random Forest ou forêt aléatoire.
 
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/542f9f8e-d48e-4723-be04-694c0c30da79)
