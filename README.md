@@ -37,6 +37,6 @@ Arbre de décision unique = certaines features ne sont pas utilisées. il serait
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/322523ac-2cc8-4560-bf4f-0bbb7322578f)
 
 - ### Idée principale des Randoms Forests:
- - Créer des sous-ensembles de features sélectionnées de manière aléatoire pour chaque division poteltielle
+  - Créer des sous-ensembles de features sélectionnées de manière aléatoire pour chaque division poteltielle
 
 
