@@ -130,6 +130,8 @@ je dois décider ou non de diviser à nouveau. Si je décide sur la base des cri
 ### - Erreur OOB
 ![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/666fe361-3b51-4b20-ade7-99b8926e107b)
 
+![image](https://github.com/Brahim-AIT-OUALI/Random_Forest/assets/115220907/0db02cb9-bacc-4a66-9c16-30635015f05f)
+
 
 
 
